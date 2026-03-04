@@ -35,4 +35,5 @@ if execute_on_teleport and not getgenv().loading then
         teleportFunc([[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/W31rdStudioOfficial/Scripts-Loader/refs/heads/main/Open-Source"))()
         ]])
-    e
+    end
+end
